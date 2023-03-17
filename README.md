@@ -1,4 +1,4 @@
-### Hi! Dear Visitor. :smiley: This is Huayi Zhou, a PhD student in Shanghai Jiao Tong University.
+### Hi! Dear Visitor. :smiley: I'm Huayi Zhou, a PhD student in Shanghai Jiao Tong University.
 
 - :heart: I'm doing my research of Pose Estimation, Domain Adaptation, Multi-task Learning and Digital Education. See [CV_DL_Gather](https://github.com/hnuzhy/CV_DL_Gather)
 - :rocket: I'm exploring the practical and landable applications of advanced AI algorithms in the traditional classroom. See [StuArt](https://github.com/hnuzhy/StuArt)
