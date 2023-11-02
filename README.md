@@ -1,6 +1,6 @@
 ### Hi! Dear Visitor. :smiley: I'm Huayi Zhou, a PhD student in Shanghai Jiao Tong University.
 
-- :heart: I'm doing my research of Pose Estimation, Domain Adaptation, Multi-task Learning and Digital Education. See [CV_DL_Gather](https://github.com/hnuzhy/CV_DL_Gather)
+- :heart: I'm doing my research of Computer Vision, Pose Estimation, Transfer Learning and Digital Education. See [CV_DL_Gather](https://github.com/hnuzhy/CV_DL_Gather)
 - :rocket: I'm exploring the practical and landable applications of advanced AI algorithms in the traditional classroom. See [StuArt](https://github.com/hnuzhy/StuArt)
 - :star: I'm a faithful follower of YOLO series algorithms for their simple yet efficient design. See [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO), [DirectMHP](https://github.com/hnuzhy/DirectMHP) and [BPJDet](https://github.com/hnuzhy/BPJDet)
 
