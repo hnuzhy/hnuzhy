@@ -3,7 +3,7 @@
 - :heart: I'm doing my research of Computer Vision, Pose Estimation, Transfer Learning and Digital Education. See [CV_DL_Gather](https://github.com/hnuzhy/CV_DL_Gather)
 - :rocket: I'm exploring the practical and landable applications of advanced AI algorithms in the traditional classroom. See [StuArt](https://github.com/hnuzhy/StuArt)
 - :star: I'm a faithful follower of YOLO series algorithms for their simple yet efficient design. See [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO), [DirectMHP](https://github.com/hnuzhy/DirectMHP) and [BPJDet](https://github.com/hnuzhy/BPJDet)
-
+- :thumbsup: I'm recently focusing on the semi-supervised learning (SSL) for its data/label efficient feature. See [MultiAugs](https://github.com/hnuzhy/MultiAugs), [SemiUHPE](https://github.com/hnuzhy/SemiUHPE)
 <!--
 <img src="https://media.giphy.com/media/4GvoqJVUHL5fdgvidL/giphy.gif" width="260">
 -->
