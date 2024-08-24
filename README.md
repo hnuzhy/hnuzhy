@@ -1,4 +1,4 @@
-### Hi! Dear Visitor. :smiley: I'm Huayi Zhou, a PhD student in Shanghai Jiao Tong University.
+### Hi! Dear Visitor. :smiley: I'm Huayi Zhou, a Postdoctoral Researcher at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)
 
 - :heart: I'm doing my research of Computer Vision, Pose Estimation, Transfer Learning and Digital Education. See [CV_DL_Gather](https://github.com/hnuzhy/CV_DL_Gather)
 - :rocket: I'm exploring the practical and landable applications of advanced AI algorithms in the traditional classroom. See [StuArt](https://github.com/hnuzhy/StuArt)
