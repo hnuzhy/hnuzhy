@@ -12,7 +12,10 @@
 
 ![Huayi Zhou GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hnuzhy&show_icons=true)
 
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/{hnuzhy}/count.svg)
+-->
+![Visitor Count](https://profile-counter.glitch.me/:hnuzhy:/count.svg)
 
 
 <!--
