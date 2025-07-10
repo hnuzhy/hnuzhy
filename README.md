@@ -15,7 +15,7 @@
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/{hnuzhy}/count.svg)
 -->
-![Visitor Count](https://profile-counter.glitch.me/:hnuzhy:/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{hnuzhy}/count.svg)
 
 
 <!--
