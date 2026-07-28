@@ -1,4 +1,4 @@
-### Hi! Dear Visitor. :smiley: I'm Huayi Zhou, a Tenure-track Assistant Professor (SZU Hundred Talents) at Shenzhen University.
+### Hi! Dear Visitor. :smiley: I'm Huayi Zhou, a Tenure-track Assistant Professor (Hundred Talents) at Shenzhen University.
 
 - :star: I'm a faithful follower of YOLO series algorithms for the simple yet efficient design. See [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO), [DirectMHP](https://github.com/hnuzhy/DirectMHP) and [BPJDet](https://github.com/hnuzhy/BPJDet)
 - :thumbsup: I'm recently focusing on the semi-supervised learning (SSL) for its data/label efficient feature. See [MultiAugs](https://github.com/hnuzhy/MultiAugs), [SemiUHPE](https://github.com/hnuzhy/SemiUHPE)
