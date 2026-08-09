@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/4GvoqJVUHL5fdgvidL/giphy.gif" width="260">
 -->
 
-![Huayi Zhou GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hnuzhy&show_icons=true)
+![Huayi Zhou GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hnuzhy&show_icons=true&theme=transparent)
 
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/{hnuzhy}/count.svg)
