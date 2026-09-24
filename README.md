@@ -1,8 +1,8 @@
 ### Hi! Dear Visitor. :smiley: I'm a Tenure-track Assistant Professor (SZU Hundred Talents) at Shenzhen University.
 
 - :heart: I'm actively studying Robot Learning based on one-/few-shot demonstrations. See [BiRoMan](https://github.com/hnuzhy/BiRoMan) about [VLBiMan](https://hnuzhy.github.io/projects/VLBiMan) and [BiDemoSyn](https://hnuzhy.github.io/projects/BiDemoSyn).
-- :rocket: I'm exploring the integration of VLMs/VFMs with Embodied Robotic Manipulation. See [RobotManipulation](https://github.com/hnuzhy/RobotManipulation), [YOTO](https://github.com/hnuzhy/YOTO)/[YOTO++](https://hnuzhy.github.io/projects/YOTOPlus)
-- :thumbsup: I'm recently focusing on the semi-supervised learning (SSL) for its data/label efficient feature. See [MultiAugs](https://github.com/hnuzhy/MultiAugs), [SemiUHPE](https://github.com/hnuzhy/SemiUHPE)
+- :rocket: I'm exploring the integration of VLMs with Embodied Robotic Manipulation. See [RobotManipulation](https://github.com/hnuzhy/RobotManipulation) and [YOTO](https://github.com/hnuzhy/YOTO)/[YOTO++](https://hnuzhy.github.io/projects/YOTOPlus)
+- :thumbsup: I'm recently focusing on the semi-supervised learning (SSL) for its label efficient feature. See [MultiAugs](https://github.com/hnuzhy/MultiAugs), and [SemiUHPE](https://github.com/hnuzhy/SemiUHPE)
 - :star: I'm a faithful follower of YOLO series algorithms for the simple yet efficient design. See [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO), [DirectMHP](https://github.com/hnuzhy/DirectMHP) and [BPJDet](https://github.com/hnuzhy/BPJDet)
 
 <!--
